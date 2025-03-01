@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+        "answer": "Jupiter"
+    },
+    {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "id": 3,
+        "question": "What is the name of the galaxy we live in?",
+        "options": ["Andromeda", "Milky Way", "Whirlpool", "Sombrero"],
+        "answer": "Milky Way"
+    },
+    {
+        "id": 4,
+        "question": "Who was the first person to walk on the moon?",
+        "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "id": 5,
+        "question": "What is the hottest planet in our solar system?",
+        "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+        "answer": "Venus"
+    }
+]
